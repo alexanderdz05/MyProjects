@@ -1,15 +1,21 @@
-# Blizzard
+# Alexander Dominguez
 
 ## About Me:
 
-- 👋 Hi, I’m @HandsomeBlizzard (call me Blizzard).
+- 👋 Hi, I’m Alexander.
 - 💻 I’m interested in Information Technology, specifically Cybersecurity. However, I also do like coding.
 - 📚 I’m currently learning AP Computer Science A and practicing HTML, CSS, and JavaScript in my free time along with Java for school.
 - 💞️ I’m looking to collaborate on anything web-development related!
-- 📫 How to reach me: HandsomeBlizzard@proton.me
+- 📫 How to reach me (for now): HandsomeBlizzard@proton.me
 
-## My History in Computers:
+## My Programming Work:
 
-- 🌐 I know how to code in HTML, CSS, and JavaScript (for the most part). I also, learned JSON and used the four to create a static website about Canada: [ExploreCanadianProvinces](canadianprovinces.web.app/). The website isn't complete yet, but you can message me feedback or advice to improve the website, especially the front-end.
-- 👨🏻‍💻 I'm looking for ideas to make a basic program in Java to prove my competency in the language.
-- 🙋🏼‍♂️ I'm going to make another static website using React.js and TypeScript. The website will higlight all my technical skills and showcase all my projects for prospective employers and partners to look at.
+| **Projects**                                             | **Preview**                                              | **Description**                                                                                        | **Skills**                                               |
+| ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| [ExploreCanadianProvinces](https://explorecanadianprovinces.web.app/)   | project in-progress  | A static website for users to explore every Canadian territory and province. The website uses HTML and CSS for the front-end, along with JavaScript and JSON to update the data for the website. | HTML, CSS, JavaScript, JSON |
+| ChatBot (most plausible Java idea) | project: not-started | no description available at this time | Java |
+| Website about myself | project: not-started | no description available at this time | React, TypeScript |
+
+
+
+
