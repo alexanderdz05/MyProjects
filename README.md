@@ -11,9 +11,9 @@
 
 | **Projects**                                             | **Preview**                                              | **Description**                                                                                        | **Skills**                                               |
 | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| [ExploreCanadianProvinces](https://explorecanadianprovinces.web.app/)   | project in-progress  | A static website for users to explore every Canadian territory and province. The website uses HTML and CSS for the front-end, along with JavaScript and JSON to update the data for the website. | HTML, CSS, JavaScript, JSON |
-| ChatBot (most plausible Java idea) | project: not-started | no description available at this time | Java |
-| Website about myself | project: not-started | no description available at this time | React, TypeScript |
+| [ExploreCanadianProvinces](https://explorecanadianprovinces.web.app/)   | project in-progress  | An interactive static web application with HTML, CSS, and JavaScript to explore Canada’s provinces and territories, incorporating a dropdown menu, real-time time zone display, and content provided through JSON. | HTML, CSS, JavaScript, JSON |
+| [Image Filter](https://github.com/alexanderdz05/imageFilter) | project: complete | An interactive Java image processing application, enabling users to apply personalized filters (grayscale, blur, brightness/contrast) and download edited image | Java |
+| Python Project | project: not-started | Will create a CLI tool or Financial Tool | Python |
 
 
 
