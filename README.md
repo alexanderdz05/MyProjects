@@ -3,10 +3,9 @@
 ## About Me:
 
 - 👋 Hi, I’m Alexander.
-- 💻 I’m interested in Information Technology, specifically Cybersecurity. However, I also do like coding.
-- 📚 I’m currently learning AP Computer Science A and practicing HTML, CSS, and JavaScript in my free time along with Java for school.
-- 💞️ I’m looking to collaborate on anything web-development related!
-- 📫 How to reach me (for now): alexanderdoestech@gmail.com
+- 💻 I’m interested in Information Technology, specifically Infrastructure & Networking and Cybersecurity. I also love coding and hope to most projects here soon!
+- 📚 I’m currently studying Computer Science and currently know intermediate HTML, CSS, JavaScript, Java, and Python. I hope to learn C/C++ next!
+- 💞️ I’m looking to collaborate on anything web-development related or build any CLI tools
 
 ## My Programming Work:
 
