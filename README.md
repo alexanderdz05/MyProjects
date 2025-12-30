@@ -3,9 +3,9 @@
 ## About Me:
 
 - 👋 Hi, I’m Alexander.
-- 💻 I’m interested in Information Technology, specifically Infrastructure & Networking and Cybersecurity. I also love coding and hope to most projects here soon!
-- 📚 I’m currently studying Computer Science and currently know intermediate HTML, CSS, JavaScript, Java, and Python. I hope to learn C/C++ next!
-- 💞️ I’m looking to collaborate on anything web-development related or build any CLI tools
+- 💻 I’m interested in Data Science & Analytics!
+- 📚 I’m currently studying Computer Science and Mathematics! I'm familiar with Python, C++, SQL, Java, JavaScript, HTML, and CSS.
+- 💞️ I’m looking to collaborate on anything data-related!
 
 ## My Programming Work:
 
