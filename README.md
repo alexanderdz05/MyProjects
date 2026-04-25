@@ -3,9 +3,8 @@
 ## About Me:
 
 - 👋 Hi, I’m Alexander.
-- 💻 I’m interested in Data Science & Analytics!
+- 💻 I’m interested in Trading and Data Science & Analytics!
 - 📚 I’m currently studying Computer Science and Mathematics! I'm familiar with Python, C++, SQL, Java, JavaScript, HTML, and CSS.
-- 💞️ I’m looking to collaborate on anything data-related!
 
 ## My Programming Work:
 
